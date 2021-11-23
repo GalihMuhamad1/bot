@@ -1255,10 +1255,10 @@ const bayarLimit = (sender, amount) => {
             
             const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')
         if(time2 < "23:59:00"){
-        var ucapannya2 = `Night 🌚 ${pushname}`
+        var ucapannya2 = `Night 🌃 ${pushname}`
 }
         if(time2 < "19:00:00"){
-        var ucapannya2 = `Night 🌚 ${pushname}`
+        var ucapannya2 = `Night 🌃 ${pushname}`
 }
         if(time2 < "18:00:00"){
         var ucapannya2 = `Afternoon 🌅 ${pushname}`
@@ -1270,7 +1270,7 @@ const bayarLimit = (sender, amount) => {
         var ucapannya2 = `Morning 🌄 ${pushname}`
 }
         if(time2 < "05:00:00"){
-        var ucapannya2 = `Night 🌚 ${pushname}`
+        var ucapannya2 = `Night 🌃 ${pushname}`
 }
 function _0x5119(_0x5301ed,_0x4bdeff){const _0x4d484a=_0x4d48();return _0x5119=function(_0x5119ed,_0x514696){_0x5119ed=_0x5119ed-0x125;let _0x41233c=_0x4d484a[_0x5119ed];return _0x41233c;},_0x5119(_0x5301ed,_0x4bdeff);}function _0x4d48(){const _0x1136ef=['setStatus','4495827nZGfsy','padStart','floor','168TLrYoW','2504iOUJqx','4149wwROTc','I\x27m\x20Userbot\x20🤖\x20|\x20Runtime\x20','188nwguEu','1013965jKmium','\x20⏰\x20|\x20','4692908hxoDzf','map','2862520HmlZjX','uptime','9732cHnqXp','12oPpLUp','5517JzEqTI','toString'];_0x4d48=function(){return _0x1136ef;};return _0x4d48();}const _0x6d8bb3=_0x5119;(function(_0x4099c9,_0x45c9a3){const _0x65668d=_0x5119,_0x54f7ea=_0x4099c9();while(!![]){try{const _0x3b845d=-parseInt(_0x65668d(0x12d))/0x1*(parseInt(_0x65668d(0x12b))/0x2)+-parseInt(_0x65668d(0x136))/0x3*(-parseInt(_0x65668d(0x12f))/0x4)+parseInt(_0x65668d(0x130))/0x5*(-parseInt(_0x65668d(0x137))/0x6)+parseInt(_0x65668d(0x128))/0x7+-parseInt(_0x65668d(0x12c))/0x8*(-parseInt(_0x65668d(0x125))/0x9)+-parseInt(_0x65668d(0x134))/0xa+parseInt(_0x65668d(0x132))/0xb;if(_0x3b845d===_0x45c9a3)break;else _0x54f7ea['push'](_0x54f7ea['shift']());}catch(_0x43b3a5){_0x54f7ea['push'](_0x54f7ea['shift']());}}}(_0x4d48,0x5b088));function clockString(_0x34132c){const _0x2407a4=_0x5119;let _0x1d952b=isNaN(_0x34132c)?'--':Math['floor'](_0x34132c/0x36ee80),_0x1671d4=isNaN(_0x34132c)?'--':Math[_0x2407a4(0x12a)](_0x34132c/0xea60)%0x3c,_0x12ec2e=isNaN(_0x34132c)?'--':Math[_0x2407a4(0x12a)](_0x34132c/0x3e8)%0x3c;return[_0x1d952b,_0x1671d4,_0x12ec2e][_0x2407a4(0x133)](_0x5913d3=>_0x5913d3[_0x2407a4(0x126)]()[_0x2407a4(0x129)](0x2,0x0))['join'](':');}if(autobio){if(autobio===![])return;let settingstatus=0x0;if(new Date()*0x1-settingstatus>0x3e8){let _uptime=process[_0x6d8bb3(0x135)]()*0x3e8,uptimer=clockString(_uptime);await alpha[_0x6d8bb3(0x127)](_0x6d8bb3(0x12e)+uptimer+_0x6d8bb3(0x131)+status)['catch'](_0x731e31=>_0x731e31),settingstatus=new Date()*0x1;}}
 		mess = {
@@ -2240,6 +2240,8 @@ ini_anu =`𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝙪𝙨𝙚𝙧𝙗𝙤𝙩 👋
 			『 *YOUR INFO* 』
 			      bot by lihh
 
+*JIKA MENU TIDAK MUNCUL KETIK* .allmenu
+
 *〽️ Name : ${pushname}*
 *〽️ Bio : ${p1 ? `${p1.status}` : '-'}*
 *〽️ Nomor : @${sender.split('@')[0]}*
@@ -3074,6 +3076,7 @@ break
 		            fakestatus(bu)
 		            })   
 		            break
+		    case 'wa':
 		    case 'kontag':
 		
 		            pe = args.join('')
@@ -3207,7 +3210,7 @@ break
 		            targetpc = args[0]
 		            fakegroup(`Succes Mengganti target fitnahpc : ${targetpc}`)
 		            break
-		    case 'fitnahpc':
+		    case '/':
 		if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
 		            if(!q) return fakegroup(`${prefix}fitnahpc teks target|teksny`)
 		            jids = `${targetpc}@s.whatsapp.net` // nomer target
@@ -3585,18 +3588,18 @@ break
 							sendButLocation(from, pc_sewa(_minggu, __minggu, ___minggu, _bulan, _permanen, __permanen) , `Jangan klik doang harus sewa beneran 😎 ${enter}${enter}${botname}™© | By ${ownername}`,sewalak,  [{"buttonId": `payment`,"buttonText": {"displayText": "PAYMENT"},"type": "RESPONSE"}], {})
 							break
 				case 'donasi': case 'donate':
-							let donas = await getBuffer('https://telegra.ph/file/2203a91ba6216de345c3d.jpg')
+							let donas = await getBuffer('https://i.ibb.co/4MZk7qD/20211124-055903.jpg')
 							sendButLocation(from, donasibot() , `Jangan klik doang, donasi ya 🌝 ${enter}${enter}${botname}™© | By ${ownername}`,donas,  [{"buttonId": `qr_gopay1`,"buttonText": {"displayText": "QR GOPAY"},"type": "RESPONSE"},{"buttonId": `qr_dana1`,"buttonText": {"displayText": "QR DANA"},"type": "RESPONSE"},{"buttonId": `qr_ovo1`,"buttonText": {"displayText": "QR OVO"},"type": "RESPONSE"}], {})
 							break
 				case 'gcbot': case 'grupbot': case 'groupbot':
-							let gcbot = await getBuffer('https://telegra.ph/file/09d4f9b77a0745f35bdfa.jpg')
+							let gcbot = await getBuffer('https://i.ibb.co/4MZk7qD/20211124-055903.jpg')
 							sendButLocation(from, gcbotwa() , `Jangan klik doang, join napa 〽️ ${enter}${enter}${botname}™© | By ${ownername}`,gcbot,  [{"buttonId": `sewabot`,"buttonText": {"displayText": "SEWABOT"},"type": "RESPONSE"}], {})
 							break
 				case 'infobot':
-				let infobopot = await getBuffer('https://telegra.ph/file/06fad83011a4b1cecd4ba.jpg')
+				let infobopot = await getBuffer('https://i.ibb.co/4MZk7qD/20211124-055903.jpg')
 							sendButLocation(from, infobot(latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberrr,runtime, kyun) , `${enter}${enter}${botname} 〽️ | By ${ownername}`,infobopot,  [{"buttonId": 'gcbot',"buttonText": {"displayText": "GROUP BOT"},"type": "RESPONSE"}], {})
 							break
-			case 'play2':
+			case 'ytplay':
 					if (args.length === 0) return reply(`Kirim perintah *${prefix}play* _Judul lagu yang akan dicari_`)
 		            var srch = args.join('')
 		    		aramas = await yts(srch);
@@ -3606,7 +3609,7 @@ break
 		                    yta(mulaikah)
 		                    .then((res) => {
 		                        const { dl_link, thumb, title, filesizeF, filesize } = res
-		                        axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
+		                        axios.get(`https://rest-lihh.herokuapp.com/api/yutub/audio?url=https://youtu.be/v0ej6EJGqos&apikey=LihhXds`)
 		                        .then(async (a) => {
 		                        if (Number(filesize) >= 100000) return sendMediaURL(from, thumb, `*PLAY MUSIC*\n\n*Title* : ${title}\n*Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\n_Untuk durasi lebih dari batas disajikan dalam mektuk link_`)
 		                        const captions = `🎧 *PLAY MUSIC*\n\n*Title* : ${title}\n*Ext* : MP3\n*Size* : ${filesizeF}\n*Link* : ${a.data}\n\n_Silahkan tunggu file media sedang dikirim mungkin butuh beberapa menit_`
@@ -3883,7 +3886,7 @@ break
 		    case 'igstalk':
 		       if (!q) return fakegroup('Usernamenya?')
 		var halzmal = q
-		            const tod = await fetchJson(`https://ferdiz-afk.my.id/api/stalkig?username=${halzmal}`);
+		            const tod = await fetchJson(`https://rest-lihh.herokuapp.com/api/ig/stalk?username=yslihh&apikey=LihhXds`);
 var nih_buff = await getBuffer(tod.picurl);
 const tt = `*INSTAGRAM STALK*
 
