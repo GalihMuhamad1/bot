@@ -193,8 +193,8 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'IG : yslihh'
-apiku = 'https://instagram.com/yslihh'
+baper = '◁ı|ıッLihhじı|ı▷'
+apiku = 'https://youtu.be/S4YEV7a1OT4'
 gc_wa_lu = '-' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
