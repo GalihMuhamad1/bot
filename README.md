@@ -1,11 +1,11 @@
-# ```SELF-BOT```
+# ```Lihh Xd```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/LihhXd/wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LihhXd/wa?color=blue&style=flat-square"></a>
-<a href="https://github.com/LihhXd/wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LihhXd/wa?color=red&style=flat-square"></a>
-<a href="https://github.com/LihhXd/wa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LihhXd/wa?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/LihhXd/wa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/LihhXd/wa/"><img title="Size" src="https://img.shields.io/github/repo-size/LihhXd/wa?style=flat-square&color=green"></a>
+<a href="https://github.com/LihhXd/bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LihhXd/bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/LihhXd/bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LihhXd/bot?color=red&style=flat-square"></a>
+<a href="https://github.com/LihhXd/bot/bottchers"><img title="Watching" src="https://img.shields.io/github/bottchers/LihhXd/bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/LihhXd/bot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/LihhXd/bot/"><img title="Size" src="https://img.shields.io/github/repo-size/LihhXd/bot?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphab0t11&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/zeeoneofc/Alphab0t10/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -24,17 +24,17 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/LihhXd/wa/blob/master/session.json#L1)
+[`Click Here`](https://github.com/LihhXd/bot/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/LihhXd/wa/blob/master/settings.json#L1)
-- Owner name [Here](https://github.com/LihhXd/wa/blob/master/settings.json#L1)
-- Botname [Here](https://github.com/LihhXd/wa/blob/master/settings.json#L1)
+- Owner number [Here](https://github.com/LihhXd/bot/blob/master/settings.json#L1)
+- Owner name [Here](https://github.com/LihhXd/bot/blob/master/settings.json#L1)
+- Botname [Here](https://github.com/LihhXd/bot/blob/master/settings.json#L1)
 
 ## `CHANGE DYNO`
 
-Off in web nya
+restart
 
 ----------
 
@@ -42,14 +42,10 @@ Off in web nya
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://h.top4top.io/p_21537gafi1.jpg" />
 </p>
 
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/5HgB__wARjM)<br>
-
-----------
+## `FOLLOW`
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://instagram.com/yslihh"><img src="https://h.top4top.io/p_2158ghld50.png" />
 </p>
 
 
